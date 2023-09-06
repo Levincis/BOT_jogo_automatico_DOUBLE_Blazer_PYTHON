@@ -10,3 +10,6 @@ A versão completa deste BOT estava planejada para receber automaticamente sinai
 Este projeto de programação foi concebido exclusivamente com o propósito de aprendizado e prática, com ênfase na busca pelo conhecimento. A automação de jogadas em jogos online é um desafio empolgante para quem está se aprofundando no mundo da programação, e este BOT incompleto serve como um exemplo valioso para entender como o Selenium pode ser aplicado para automatizar ações em páginas da web.
 
 Embora este projeto possa estar incompleto, ele representa uma oportunidade valiosa para aprimorar suas habilidades de programação e explorar ainda mais o vasto campo da automação de tarefas online. A aprendizagem contínua e a prática são fundamentais para o desenvolvimento de habilidades de programação cada vez mais sólidas.
+
+Código em 50% do desenvolvimento, TOTALMENTE incompleto.
+Para fins educacionais, e para práticar.
